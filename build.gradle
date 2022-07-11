@@ -6,7 +6,7 @@ plugins {
 
 group = 'hello'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '17'
+sourceCompatibility = '11'
 
 // 라이브러리를 다운받는 url을 설정
 repositories {
